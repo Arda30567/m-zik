@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="app_widget_description">Control music playback from your home screen</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_library">Library</string>
+    <string name="nav_playlists">Playlists</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Common -->
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="share">Share</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="repeat">Repeat</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+    <string name="select_all">Select All</string>
+    <string name="deselect_all">Deselect All</string>
+    
+    <!-- Player -->
+    <string name="now_playing">Now Playing</string>
+    <string name="queue">Queue</string>
+    <string name="lyrics">Lyrics</string>
+    <string name="album_art">Album Art</string>
+    <string name="artist">Artist</string>
+    <string name="album">Album</string>
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="year">Year</string>
+    <string name="duration">Duration</string>
+    <string name="track_number">Track Number</string>
+    <string name="composer">Composer</string>
+    <string name="bitrate">Bitrate</string>
+    <string name="sample_rate">Sample Rate</string>
+    <string name="file_size">File Size</string>
+    <string name="file_path">File Path</string>
+    <string name="format">Format</string>
+    
+    <!-- Library -->
+    <string name="songs">Songs</string>
+    <string name="albums">Albums</string>
+    <string name="artists">Artists</string>
+    <string name="all_songs">All Songs</string>
+    <string name="recently_added">Recently Added</string>
+    <string name="recently_played">Recently Played</string>
+    <string name="most_played">Most Played</string>
+    <string name="favorites">Favorites</string>
+    <string name="top_tracks">Top Tracks</string>
+    <string name="new_releases">New Releases</string>
+    
+    <!-- Playlists -->
+    <string name="playlists">Playlists</string>
+    <string name="create_playlist">Create Playlist</string>
+    <string name="edit_playlist">Edit Playlist</string>
+    <string name="delete_playlist">Delete Playlist</string>
+    <string name="playlist_name">Playlist Name</string>
+    <string name="playlist_description">Playlist Description</string>
+    <string name="add_to_playlist">Add to Playlist</string>
+    <string name="remove_from_playlist">Remove from Playlist</string>
+    <string name="smart_playlists">Smart Playlists</string>
+    <string name="user_playlists">My Playlists</string>
+    <string name="import_playlist">Import Playlist</string>
+    <string name="export_playlist">Export Playlist</string>
+    <string name="playlist_empty">This playlist is empty</string>
+    <string name="playlist_tracks">%1$d tracks</string>
+    <string name="playlist_duration">%1$s</string>
+    
+    <!-- Search -->
+    <string name="search_hint">Search for songs, albums, artists…</string>
+    <string name="no_results">No results found</string>
+    <string name="search_history">Search History</string>
+    <string name="clear_history">Clear History</string>
+    <string name="search_filters">Filters</string>
+    <string name="search_songs">Songs</string>
+    <string name="search_albums">Albums</string>
+    <string name="search_artists">Artists</string>
+    <string name="search_playlists">Playlists</string>
+    
+    <!-- Settings -->
+    <string name="settings">Settings</string>
+    <string name="general_settings">General</string>
+    <string name="audio_settings">Audio</string>
+    <string name="playback_settings">Playback</string>
+    <string name="notification_settings">Notifications</string>
+    <string name="storage_settings">Storage</string>
+    <string name="about">About</string>
+    
+    <!-- Audio Settings -->
+    <string name="equalizer">Equalizer</string>
+    <string name="bass_boost">Bass Boost</string>
+    <string name="virtualizer">Virtualizer</string>
+    <string name="reverb">Reverb</string>
+    <string name="audio_effects">Audio Effects</string>
+    <string name="crossfade">Crossfade</string>
+    <string name="gapless_playback">Gapless Playback</string>
+    <string name="audio_quality">Audio Quality</string>
+    
+    <!-- Playback Settings -->
+    <string name="playback_speed">Playback Speed</string>
+    <string name="shuffle_mode">Shuffle Mode</string>
+    <string name="repeat_mode">Repeat Mode</string>
+    <string name="auto_play">Auto Play</string>
+    <string name="resume_playback">Resume Playback</string>
+    <string name="headset_autoplay">Headset Autoplay</string>
+    <string name="sleep_timer">Sleep Timer</string>
+    
+    <!-- Theme Settings -->
+    <string name="theme">Theme</string>
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+    <string name="system_theme">System Default</string>
+    <string name="dynamic_colors">Dynamic Colors</string>
+    <string name="accent_color">Accent Color</string>
+    
+    <!-- Storage Settings -->
+    <string name="cache_size">Cache Size</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="download_location">Download Location</string>
+    <string name="auto_download">Auto Download</string>
+    <string name="download_quality">Download Quality</string>
+    
+    <!-- Notifications -->
+    <string name="show_notification">Show Notification</string>
+    <string name="notification_style">Notification Style</string>
+    <string name="lockscreen_controls">Lockscreen Controls</string>
+    <string name="notification_actions">Notification Actions</string>
+    
+    <!-- Permissions -->
+    <string name="permission_required">Permission Required</string>
+    <string name="storage_permission_required">Storage permission is required to access your music files</string>
+    <string name="notification_permission_required">Notification permission is required to show playback controls</string>
+    <string name="grant_permission">Grant Permission</string>
+    
+    <!-- Errors -->
+    <string name="error">Error</string>
+    <string name="error_occurred">An error occurred</string>
+    <string name="file_not_found">File not found</string>
+    <string name="unsupported_format">Unsupported format</string>
+    <string name="network_error">Network error</string>
+    <string name="playback_error">Playback error</string>
+    <string name="playlist_not_found">Playlist not found</string>
+    
+    <!-- Messages -->
+    <string name="track_added_to_playlist">Track added to playlist</string>
+    <string name="track_removed_from_playlist">Track removed from playlist</string>
+    <string name="playlist_created">Playlist created</string>
+    <string name="playlist_updated">Playlist updated</string>
+    <string name="playlist_deleted">Playlist deleted</string>
+    <string name="favorites_updated">Favorites updated</string>
+    <string name="track_deleted">Track deleted</string>
+    <string name="cache_cleared">Cache cleared</string>
+    <string name="settings_saved">Settings saved</string>
+    
+    <!-- Time Format -->
+    <string name="time_format_minutes">%1$d:%02d</string>
+    <string name="time_format_hours">%1$d:%02d:%02d</string>
+    <string name="unknown_artist">Unknown Artist</string>
+    <string name="unknown_album">Unknown Album</string>
+    <string name="unknown_genre">Unknown Genre</string>
+    
+    <!-- File Size Format -->
+    <string name="file_size_kb">%1$d KB</string>
+    <string name="file_size_mb">%.1f MB</string>
+    <string name="file_size_gb">%.2f GB</string>
+    
+    <!-- Bitrate Format -->
+    <string name="bitrate_kbps">%1$d kbps</string>
+    <string name="bitrate_mbps">%.1f Mbps</string>
+    
+    <!-- Sample Rate Format -->
+    <string name="sample_rate_khz">%1$d kHz</string>
+    <string name="sample_rate_hz">%1$d Hz</string>
+    
+    <!-- Actions -->
+    <string name="action_play_next">Play Next</string>
+    <string name="action_add_to_queue">Add to Queue</string>
+    <string name="action_add_to_playlist">Add to Playlist</string>
+    <string name="action_set_as_ringtone">Set as Ringtone</string>
+    <string name="action_share">Share</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_duplicate">Duplicate</string>
+    <string name="action_export">Export</string>
+    <string name="action_import">Import</string>
+    
+    <!-- Sort Options -->
+    <string name="sort_by_name">Name</string>
+    <string name="sort_by_artist">Artist</string>
+    <string name="sort_by_album">Album</string>
+    <string name="sort_by_year">Year</string>
+    <string name="sort_by_duration">Duration</string>
+    <string name="sort_by_date_added">Date Added</string>
+    <string name="sort_by_play_count">Play Count</string>
+    <string name="sort_by_track_number">Track Number</string>
+    <string name="sort_ascending">Ascending</string>
+    <string name="sort_descending">Descending</string>
+    
+    <!-- View Options -->
+    <string name="view_as_list">List</string>
+    <string name="view_as_grid">Grid</string>
+    <string name="view_as_card">Card</string>
+    
+    <!-- Widget -->
+    <string name="widget_title">Music Player</string>
+    <string name="widget_play">Play</string>
+    <string name="widget_pause">Pause</string>
+    <string name="widget_next">Next</string>
+    <string name="widget_previous">Previous</string>
+    
+    <!-- Sleep Timer -->
+    <string name="sleep_timer_title">Sleep Timer</string>
+    <string name="sleep_timer_message">Stop playback after:</string>
+    <string name="sleep_timer_5_minutes">5 minutes</string>
+    <string name="sleep_timer_10_minutes">10 minutes</string>
+    <string name="sleep_timer_15_minutes">15 minutes</string>
+    <string name="sleep_timer_30_minutes">30 minutes</string>
+    <string name="sleep_timer_1_hour">1 hour</string>
+    <string name="sleep_timer_end_of_track">End of current track</string>
+    <string name="sleep_timer_custom">Custom</string>
+    <string name="sleep_timer_cancel">Cancel Timer</string>
+    <string name="sleep_timer_set">Set Timer</string>
+    
+    <!-- Equalizer -->
+    <string name="equalizer_on">On</string>
+    <string name="equalizer_off">Off</string>
+    <string name="equalizer_presets">Presets</string>
+    <string name="equalizer_custom">Custom</string>
+    <string name="equalizer_flat">Flat</string>
+    <string name="equalizer_rock">Rock</string>
+    <string name="equalizer_jazz">Jazz</string>
+    <string name="equalizer_pop">Pop</string>
+    <string name="equalizer_classical">Classical</string>
+    <string name="equalizer_dance">Dance</string>
+    <string name="equalizer_hip_hop">Hip Hop</string>
+    <string name="equalizer_country">Country</string>
+    <string name="equalizer_acoustic">Acoustic</string>
+    <string name="equalizer_electronic">Electronic</string>
+    <string name="equalizer_r_b">R&B</string>
+    <string name="equalizer_folk">Folk</string>
+    <string name="equalizer_blues">Blues</string>
+    <string name="equalizer_vocal">Vocal</string>
+    <string name="equalizer_spoken_word">Spoken Word</string>
+    <string name="equalizer_save_preset">Save Preset</string>
+    <string name="equalizer_delete_preset">Delete Preset</string>
+    <string name="equalizer_rename_preset">Rename Preset</string>
+    
+    <!-- About -->
+    <string name="about_app">About Music Player</string>
+    <string name="app_version">Version %1$s</string>
+    <string name="developer">Developer</string>
+    <string name="contact">Contact</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="terms_of_service">Terms of Service</string>
+    <string name="open_source_licenses">Open Source Licenses</string>
+    <string name="rate_app">Rate App</string>
+    <string name="share_app">Share App</string>
+    <string name="feedback">Send Feedback</string>
+    
+</resources>
