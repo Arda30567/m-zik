@@ -25,6 +25,8 @@ jobs:
         run: |
           sed -i 's/\r$//' gradlew
           chmod +x gradlew
+- name: Fix permissions
+  run: chmod +x gradlew
 
       - name: Debug APK üret
         run: ./gradlew assembleDebug --stacktrace
